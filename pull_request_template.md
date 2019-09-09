@@ -4,39 +4,39 @@
 
 **Checklist for the author of the Pull-Request**
 
-- [x]  The commit message follows guidelines
+- [ ]  The commit message follows guidelines
 
-- [x]   I tested the changes in this pull-request myself
+- [ ]   I tested the changes in this pull-request myself
 
-- [x]  I have performed a self-review of my own code and all items from Checklist for the Reviewers was passed
+- [ ]  I have performed a self-review of my own code and all items from Checklist for the Reviewers was passed
 
 **Checklist for the Reviewers**
 
-- [x]  The code follows the style guidelines
+- [ ]  The code follows the style guidelines
 
-- [x] All the linters are passed
+- [ ] All the linters are passed
 
-- [x] The implementation corresponds to the use case which described in the task
+- [ ] The implementation corresponds to the use case which described in the task
 
-- [x] All the gems and libraries are used correctly
+- [ ] All the gems and libraries are used correctly
 
-- [x] Design patterns are used correctly
+- [ ] Design patterns are used correctly
 
-- [x] All the new features have documentation and an additional information for README.md was provided
+- [ ] All the new features have documentation and an additional information for README.md was provided
 
-- [x]  There is no redundant or commented code
+- [ ]  There is no redundant or commented code
 
-- [x] The code is readable and understandable
+- [ ] The code is readable and understandable
 
 **The code follows these principles**
 
-- [x] DRY (Don't Repeat Yourself)
+- [ ] DRY (Don't Repeat Yourself)
 
-- [x] KISS (Keep It Short and Simple)
+- [ ] KISS (Keep It Short and Simple)
 
-- [x] YAGNI (You Ain't Gonna Need It)
+- [ ] YAGNI (You Ain't Gonna Need It)
 
-- [x] SOLID (SRP, OCP, LSP, ISP, DIP)
+- [ ] SOLID (SRP, OCP, LSP, ISP, DIP)
 
 **Database**
 
